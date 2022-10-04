@@ -1,0 +1,84 @@
+{
+    "adlist" : [
+        {
+            "jobPostingId": 6,
+            "jobPostingTitle": "React Native App 개발 (병역특례 전문연구요원 / 산업기능요원 가능)",
+            "jobGroupId": 2,
+            "companyId": 6,
+            "compensation": "1,000,000",
+            "replyRate": "",
+            "company": [
+                {
+                    "companyName": "딥센트",
+                    "companyLocation": "서울",
+                    "companyCountry": "한국",
+                    "companyImage": "https://static.wanted.co.kr/images/company/15208/1gtm07dqlzt0qizz__1080_790.jpg"
+                }
+            ]
+        },
+        {
+            "jobPostingId": 7,
+            "jobPostingTitle": "리액트 네이티브 개발자 (React Native)",
+            "jobGroupId": 2,
+            "companyId": 7,
+            "compensation": "1,000,000",
+            "replyRate": "",
+            "company": [
+                {
+                    "companyName": "클래스팅(Classting)",
+                    "companyLocation": "서울",
+                    "companyCountry": "한국",
+                    "companyImage": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F733%2Fgyztidabri4orq8k__400_400.jpg&w=400&q=75"
+                }
+            ]
+        },
+        {
+            "jobPostingId": 8,
+            "jobPostingTitle": "리액트 주니어 개발자",
+            "jobGroupId": 2,
+            "companyId": 8,
+            "compensation": "1,000,000",
+            "replyRate": "",
+            "company": [
+                {
+                    "companyName": "인플루디오",
+                    "companyLocation": "경기",
+                    "companyCountry": "한국",
+                    "companyImage": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F28982%2Flknoha9lcnkzwj1z__400_400.png&w=400&q=75"
+                }
+            ]
+        },
+        {
+            "jobPostingId": 9,
+            "jobPostingTitle": "리액트 네이티브 엔지니어 [플랫폼]",
+            "jobGroupId": 2,
+            "companyId": 9,
+            "compensation": "1,000,000",
+            "replyRate": "",
+            "company": [
+                {
+                    "companyName": "굿닥(goodoc)",
+                    "companyLocation": "서울",
+                    "companyCountry": "한국",
+                    "companyImage": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F40%2Fregsgtrcawqao1jk__400_400.jpg&w=400&q=75"
+                }
+            ]
+        },
+        {
+            "jobPostingId": 10,
+            "jobPostingTitle": "리액트네이티브 개발자(React Native)",
+            "jobGroupId": 2,
+            "companyId": 10,
+            "compensation": "1,000,000",
+            "replyRate": "",
+            "company": [
+                {
+                    "companyName": "휴맥스팍스",
+                    "companyLocation": "서울",
+                    "companyCountry": "한국",
+                    "companyImage": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F24825%2Fhk7zvbymn01c5llj__400_400.png&w=400&q=75"
+                }
+            ]
+        }
+    ]
+}

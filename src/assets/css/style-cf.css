@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('https://d1azc1qln24ryf.cloudfront.net/78252/wantedicon/icomoon.eot?8et930');
+    src:  url('https://d1azc1qln24ryf.cloudfront.net/78252/wantedicon/icomoon.eot?8et930#iefix') format('embedded-opentype'),
+        url('https://d1azc1qln24ryf.cloudfront.net/78252/wantedicon/icomoon.woff2?8et930') format('woff2'),
+        url('https://d1azc1qln24ryf.cloudfront.net/78252/wantedicon/icomoon.ttf?8et930') format('truetype'),
+        url('https://d1azc1qln24ryf.cloudfront.net/78252/wantedicon/icomoon.woff?8et930') format('woff'),
+        url('https://d1azc1qln24ryf.cloudfront.net/78252/wantedicon/icomoon.svg?8et930#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .icon-logo:before {
+    content: "\e992";
+  }
+
+  .icon-arrow_down:before {
+    content: "\e947";
+  }
+
+  .icon-ic_favorite_black_24px:before {
+    content: "\e99b";
+  }
+
+  .icon-arrow_bottom_fill:before {
+    content: "\e97f";
+}
+
+.icon-arrow_right:before {
+  content: "\e94f";
+}
+
+.icon-camera_icon:before {
+  content: "\e9af";
+}
+.icon-info_icon:before {
+  content: "\e9a7";
+}
+
+.icon-new_resume:before {
+  content: "\ea0e";
+}
+
+.icon-upload_resume:before {
+  content: "\e9c6";
+}
+
+.icon-more_vert:before {
+  content: "\e952";
+}
+
+.icon-joblist_bottombar_cv:before {
+  content: "\e979";
+}
+
+.icon-ic-language:before {
+  content: "\ea0a";
+}
+
+.icon-download:before {
+  content: "\e957";
+}
